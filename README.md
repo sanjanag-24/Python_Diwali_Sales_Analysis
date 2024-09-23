@@ -1,6 +1,4 @@
-Here's a template for your GitHub README file based on your analysis:
 
----
 
 # Diwali Sales Data Analysis
 
