@@ -1,5 +1,4 @@
 
-
 # Diwali Sales Data Analysis
 
 ## Overview
